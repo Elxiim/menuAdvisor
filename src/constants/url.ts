@@ -1,0 +1,1 @@
+export const web_url = 'http://menuadvisor.fr';
